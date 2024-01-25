@@ -27,6 +27,8 @@ python multi_title.py
 
 # Extraction other things
 python parser.py
+
+# Note that the test files used in multi_title.py I have generated can be obtained from some tools in parser.py ('23.2307.14893.json' is a result from unstructured, 'test2_photo' is from pdf2image tool.)
 ```
 ## Visualization of Extracted Multi-level Headings
 ![multi-level headings](multi_title_demo.png)
