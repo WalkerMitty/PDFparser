@@ -1,4 +1,6 @@
-# PDFparser
+# PDFparser 
+[切换中文](./readme_c.md)
+
 Here is a demo for PDF parser (Including OCR, object detection tools). 
 PDF module recognition, extraction of multi-level headings, and more.
 ## Requirements
