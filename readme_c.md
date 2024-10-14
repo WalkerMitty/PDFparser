@@ -33,10 +33,8 @@ python parser.py
 ![multi-level headings](multi_title_demo.png)
 
 ## 说明
-更详细的中文说明见 [blog](https://zhuanlan.zhihu.com/p/652975673).
 非常抱歉由于项目原因，我只能提供一部分demo，不过欢迎提问。
 ## 参考
-- https://zhuanlan.zhihu.com/p/652975673
 - https://unstructured.io/
 - https://github.com/Layout-Parser/layout-parser/tree/main
 - https://github.com/PaddlePaddle/PaddleDetection
