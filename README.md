@@ -36,11 +36,9 @@ python parser.py
 ![multi-level headings](multi_title_demo.png)
 
 ## Notes
-Here is a detailed Chinese [blog](https://zhuanlan.zhihu.com/p/652975673). 
-I apologize; due to project constraints, I can only share a portion of the code. However, feel free to ask any questions.
+Due to project constraints, I can only share a portion of the code. However, feel free to ask any questions.
 
 ## Reference
-- https://zhuanlan.zhihu.com/p/652975673
 - https://unstructured.io/
 - https://github.com/Layout-Parser/layout-parser/tree/main
 - https://github.com/PaddlePaddle/PaddleDetection
